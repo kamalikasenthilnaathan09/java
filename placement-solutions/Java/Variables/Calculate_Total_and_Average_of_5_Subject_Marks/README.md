@@ -7,7 +7,7 @@
 | **Difficulty** | 🟢 Easy |
 | **Submission Status** | ✅ Solved / Accepted |
 | **Author** | [@Kamali](https://github.com/Kamali) |
-| **Date** | 2026-09-23T15:34:47.448Z |
+| **Date** | 2026-09-23T15:35:15.917Z |
 
 ## Problem Description
 
@@ -24,4 +24,4 @@ Total = 80 + 85 + 90 + 75 + 95 = 425. Average = 425 / 5.0 = 85.00.
 
 ---
 
-*Pushed from [Placement Practice Portal](https://practice-portal-mu.vercel.app) • [View Commit](https://github.com/kamalikasenthilnaathan09/java/commit/2712cbb71e284a2be4ea45fc0560dd2e86e4c3c6)*
+*Pushed from [Placement Practice Portal](https://practice-portal-mu.vercel.app) • [View Commit](https://github.com/kamalikasenthilnaathan09/java/commit/6ab1ac962a0c35642d6ffc6b917d536b46ab99e3)*

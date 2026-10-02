@@ -1,57 +1,67 @@
-# ☕ Java — Placement Practice & Problem Solving
+# ☕ Java Placement Practice
 
-A structured collection of my **daily Java practice programs** focused on strengthening programming fundamentals, problem-solving skills, and placement preparation.
+A collection of my **daily Java practice problems** for building strong programming fundamentals and preparing for coding assessments and placements.
 
-> 🚀 Learning Java consistently, one problem at a time.
+This repository documents my learning journey from Java basics to problem solving.
 
 ---
 
 ## 🎯 Purpose
 
-This repository is my personal Java practice space where I:
+I created this repository to:
 
-- Practice Java regularly
+- Practice Java consistently
 - Strengthen programming fundamentals
-- Improve logical thinking and problem-solving
-- Solve beginner to intermediate coding problems
-- Practice common placement-oriented questions
-- Track my learning progress
-- Document mistakes and important concepts
+- Improve logical thinking
+- Solve placement-oriented coding problems
+- Understand concepts through hands-on practice
+- Learn from coding and compilation errors
+- Track my progress over time
 
 ---
 
-## 📚 Topics Covered
+## 📚 Topics
 
-| # | Topic | Status |
-|---|---|---|
-| 01 | Java Basics | 🟢 Practising |
-| 02 | Input & Output | 🟢 Practising |
-| 03 | Operators | 🟢 Practising |
-| 04 | Conditional Statements | 🟢 Practising |
-| 05 | Loops | 🟢 Practising |
-| 06 | Number Problems | 🟢 Practising |
-| 07 | Mathematical Problems | 🟢 Practising |
-| 08 | Methods | 🔵 Upcoming |
-| 09 | Arrays | 🔵 Upcoming |
-| 10 | Strings | 🔵 Upcoming |
-| 11 | Collections | 🔵 Upcoming |
-| 12 | Problem Solving | 🔵 Upcoming |
+| Topic | What I Practise |
+|---|---|
+| `Data_Type` | Primitive data types and basic calculations |
+| `Variables` | Variable declaration, initialization and usage |
+| `User_Input` | Reading input using `Scanner` |
+| `Operators` | Arithmetic, relational, logical and other operators |
+| `Type_Casting` | Converting between data types |
+| `if_if_else_nested_if` | Conditional statements and decision making |
 
-> The repository will be updated continuously as I learn new topics.
+More topics will be added as I continue learning.
 
 ---
 
-## 📂 Repository Structure
+## 📂 Folder Structure
 
 ```text
-placement-solutions/
-└── Java/
-    ├── basics/
-    ├── operators/
-    ├── conditional-statements/
-    ├── loops/
-    ├── number-problems/
-    ├── mathematical-problems/
-    ├── arrays/
-    ├── strings/
-    └── collections/
+Java/
+│
+├── Data_Type/
+│   ├── ...
+│   └── README.md
+│
+├── Operators/
+│   ├── ...
+│   └── README.md
+│
+├── Type_Casting/
+│   ├── ...
+│   └── README.md
+│
+├── User_Input/
+│   ├── ...
+│   └── README.md
+│
+├── Variables/
+│   ├── ...
+│   └── README.md
+│
+├── if_if_else_nested_if/
+│   ├── ...
+│   └── README.md
+│
+└── README.md

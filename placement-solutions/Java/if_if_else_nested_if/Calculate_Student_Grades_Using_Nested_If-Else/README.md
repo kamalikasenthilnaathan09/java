@@ -7,7 +7,7 @@
 | **Difficulty** | 🟢 Easy |
 | **Submission Status** | ✅ Solved / Accepted |
 | **Author** | [@Kamali](https://github.com/Kamali) |
-| **Date** | 2026-10-02T00:32:13.520Z |
+| **Date** | 2026-10-02T00:33:19.242Z |
 
 ## Problem Description
 
@@ -31,4 +31,4 @@ Print the corresponding grade or "Fail".
 
 ---
 
-*Pushed from [Placement Practice Portal](https://practice-portal-mu.vercel.app) • [View Commit](https://github.com/kamalikasenthilnaathan09/java/commit/a6a82e4df0e27ac269f7d0d6feb9db0d0cc54ba3)*
+*Pushed from [Placement Practice Portal](https://practice-portal-mu.vercel.app) • [View Commit](https://github.com/kamalikasenthilnaathan09/java/commit/f82474a099f742531f1ba7eae3113e1f4848b770)*

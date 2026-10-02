@@ -6,7 +6,7 @@
  * Difficulty: EASY
  * Status: Solved / Accepted
  * Author: Kamali
- * Pushed at: 2026-10-02T00:32:13.520Z
+ * Pushed at: 2026-10-02T00:33:19.242Z
  * ============================================================================
  *
  * Description:
